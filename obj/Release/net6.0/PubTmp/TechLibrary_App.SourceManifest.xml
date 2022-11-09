@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\juan.gomez3\OneDrive - SoftwareONE\UNIVERSIDAD\PROGRAMACIÓN DISTRIBUIDA\PROYECTOS\TechLibrary_App\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\juan.gomez3\OneDrive - SoftwareONE\UNIVERSIDAD\PROGRAMACIÓN DISTRIBUIDA\PROYECTOS\TechLibrary_App\obj\Release\net6.0\PubTmp\EFSQLScripts\TechLibrary_App.Data.ApplicationDbContext.sql" />
+</sitemanifest>

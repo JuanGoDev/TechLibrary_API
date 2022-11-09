@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYiziiCz770qkKNac0fIcLgAAAAACAAAAAAAQZgAAAAEAACAAAACxdHNb5hvc338L3EMIBFe9WmwwIWFLIGNrxc3GN/QbKwAAAAAOgAAAAAIAACAAAABRBPCJ0xRRMYbZQOIXstvbf1PaLi4X1rqTNOyP75fBU4AAAADRmrm3j8lNnLOM3KwsPNxNQXM/ltk9tVqS9MlnkDOssVxrYA7DLxVIdfRRMLbvLSmvQAwCfpyddxncj0q3dJX+ZSS1iEbH90VxmawUQgjfeCnOcV27sQC8DtZER64FoZk83xKmUW/CwoaYkwdrBxo+Hk/Ux4O1BU2FthfzEKuT80AAAACr6Hlq5i1flB4nDh8NJPIS23+yPicc3EdaUxyKKtv+hCkK3eqRUudPNc8Dk/vUSh6sR7YvPkNkAmrWRcLq0CpK</EncryptedPassword>
+    <History>True|2022-11-09T01:33:56.9515831Z;True|2022-11-07T19:26:02.3067978-05:00;True|2022-11-07T18:57:36.2939189-05:00;True|2022-11-07T13:25:56.4277924-05:00;True|2022-11-07T13:18:11.4753565-05:00;True|2022-11-07T12:19:59.5634326-05:00;True|2022-11-07T12:05:16.3926411-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="TechLibrary_App.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:techlibraryappdbserver.database.windows.net,1433%3bInitial Catalog=TechLibrary_App_db%3bUser Id=jegomez%40techlibraryappdbserver%3bPassword=JE07_042022_</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

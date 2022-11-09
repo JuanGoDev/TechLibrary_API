@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TechLibraryApp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\juan\.gomez3\\OneDrive\ -\ SoftwareONE\\UNIVERSIDAD\\PROGRAMACIÓN\ DISTRIBUIDA\\PROYECTOS\\TechLibrary_App\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="TechLibrary_App.Data.ApplicationDbContext" description="" value="Data Source=tcp:techlibraryappdbserver.database.windows.net,1433;Initial Catalog=TechLibrary_App_db;User Id=jegomez@techlibraryappdbserver;Password=JE07_042022_" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\juan\.gomez3\\OneDrive\ -\ SoftwareONE\\UNIVERSIDAD\\PROGRAMACIÓN\ DISTRIBUIDA\\PROYECTOS\\TechLibrary_App\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\TechLibrary_App\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>
