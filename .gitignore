@@ -1,6 +1,10 @@
 .vs/
 obj/*
 
+.vs\*
+obj\*
+bin\*
+
 *.suo
 *.csproj.user
 *.vbproj.user
