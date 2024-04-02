@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mnLfv4+lay640TTWlhjcl8DQ93XYuYEGXPO3Q2q/gTg=",
+  "Hash": "DIZWdrqyPkgTv+ImToPno7JoszCVKOR+Z+Fyzj92nTQ=",
   "Source": "TechLibrary_App",
   "BasePath": "_content/TechLibrary_App",
   "Mode": "Default",
@@ -10,22 +10,24 @@
     {
       "Name": "TechLibrary_App\\wwwroot",
       "Source": "TechLibrary_App",
-      "ContentRoot": "C:\\Users\\juan.gomez3\\OneDrive - SoftwareONE\\UNIVERSIDAD\\PROGRAMACIÓN DISTRIBUIDA\\PROYECTOS\\TechLibrary_App\\wwwroot\\",
+      "ContentRoot": "C:\\PROYECTOS\\TechLibraryApp\\TechLibrary_API\\wwwroot\\",
       "BasePath": "_content/TechLibrary_App",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\juan.gomez3\\OneDrive - SoftwareONE\\UNIVERSIDAD\\PROGRAMACIÓN DISTRIBUIDA\\PROYECTOS\\TechLibrary_App\\wwwroot\\Files\\Gabo.jpg",
+      "Identity": "C:\\PROYECTOS\\TechLibraryApp\\TechLibrary_API\\wwwroot\\Files\\Gabo.jpg",
       "SourceId": "TechLibrary_App",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\juan.gomez3\\OneDrive - SoftwareONE\\UNIVERSIDAD\\PROGRAMACIÓN DISTRIBUIDA\\PROYECTOS\\TechLibrary_App\\wwwroot\\",
+      "ContentRoot": "C:\\PROYECTOS\\TechLibraryApp\\TechLibrary_API\\wwwroot\\",
       "BasePath": "_content/TechLibrary_App",
       "RelativePath": "Files/Gabo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TechLibrary_App.props" />
+</Project>
